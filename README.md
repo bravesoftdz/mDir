@@ -8,7 +8,7 @@ A simple directory lister written in Pascal
 4. Run ``` $ fpc mDir.pas```
 5. Run ``` $ ./mDir``` to list the current directory.
 
-If you want to ***run*** it from ***any directory*** then add the path of the mDir.exe to the ```$PATH``` environment variable!
+If you want to ***run*** it from ***any directory*** then add the path of the mDir executable to the ```$PATH``` environment variable!
 
 # License
 It is licensed to the public domain. See [Unlicense](LICENSE) for further information.
