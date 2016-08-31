@@ -10,6 +10,11 @@ A simple directory lister written in Pascal
 
 If you want to ***run*** it from ***any directory*** then add the path of the mDir executable to the ```$PATH``` environment variable!
 
+# Usage
+``` $ mDir [options] [directory] [options]```
+#### Options:
+```--help```:     Show help
+
 # License
 It is licensed to the public domain. See [Unlicense](LICENSE) for further information.
 
