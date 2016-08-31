@@ -15,6 +15,8 @@ If you want to ***run*** it from ***any directory*** then add the path of the mD
 #### Options:
 ```--help```:     Show help
 
+Run it without [directory] to list current directory
+
 # License
 It is licensed to the public domain. See [Unlicense](LICENSE) for further information.
 
