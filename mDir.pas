@@ -1,5 +1,5 @@
 { MDir - iMproved Dir }
-{ Copyright (c) René Hickersberger }
+{  Made by René Hickersberger }
 
 program mDir;
 
