@@ -2,7 +2,7 @@
 A simple directory lister written in Pascal
 
 ## Install and run
-1. Download [FreePascal](http://freepascal.org/)
+1. Download and install [FreePascal](http://freepascal.org/)
 2. Open a Terminal and navigate to the directory where you would like to clone it to
 3. Clone this repository (``` $ git clone https://github.com/ReneHSZ/mDir.git```)
 4. Run ``` $ fpc mDir.pas```
