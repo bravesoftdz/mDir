@@ -1,5 +1,5 @@
 # mDir
-A simple directory lister written in Pascal
+A stupid simple public domain directory lister written in FreePascal.
 
 ## Install and run
 1. Download and install [FreePascal](http://freepascal.org/)
